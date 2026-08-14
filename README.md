@@ -12,8 +12,8 @@ The code was run with Python 3.9, 3 virtual environments were used for clusterin
 
 
 
-00_Mouse_Xenium: (default), cleaning, processing, analysis, and figures related to mouse Xenium data.
+00_Mouse_Xenium: cleaning, processing, analysis, and figures related to mouse Xenium data.
 
-01_Human_Xenium: (default), cleaning, processing, analysis, and figures related to human Xenium data.
+01_Human_Xenium: cleaning, processing, analysis, and figures related to human Xenium data.
 
-02_Human_scRNA-seq: (default), analysis and figurers related to human scRNA-seq data.
+02_Human_scRNA-seq: analysis and figurers related to human scRNA-seq data.
